@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WAKIOM
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in geospatial web and software development
+- 🌱 I’m currently learning at ALX Africa Software Engineering
 - 📫 Reach me via agnessmanga@outlook.com
 
 <!---
