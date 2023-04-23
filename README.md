@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WAKIOM
-- 👀 I’m interested in geospatial web and software development
-- 🌱 I’m currently learning at ALX Africa Software Engineering
+- 👀 I’m on Data Science journey because GIS didn't have enough Math for me!
+- 🌱 I’m currently taking a software engineering course at ALX Africa
 - 📫 Reach me via agnessmanga@outlook.com
 
 <!---
