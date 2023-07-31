@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WAKIOM
-- 👀 I’m on a Data Science journey because GIS didn't have enough Math for me!
+- 👀 I’m on a Data Analytics journey
 - 🌱 I’m currently taking a software engineering course at ALX Africa
 - 📫 Reach me via agnessmanga@outlook.com
 
