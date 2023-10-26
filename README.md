@@ -18,9 +18,6 @@ from the fundamentals to the tools. Now i am very proficient in Excel and SQL. W
 ## 🌱 Currently Learning
 
 - Power BI
-- Python
-- Tableau
-<!-- Add more technologies you're learning -->
 
 ## 📈 GitHub Stats
 
