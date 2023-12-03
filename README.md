@@ -33,7 +33,7 @@ from the fundamentals to the tools. Now i am very proficient in Excel and SQL. W
 I'm open for collaboration, freelance work and internships. Hit me up
 
 - Website: [https://codewise.hashnode.dev]
-- LinkedIn: [https://www.linkedin.com/in/wakiomanga/])
+- LinkedIn: [https://www.linkedin.com/in/wakiomanga/]
 - Email: [agnessmanga@outlook.com]
 
 
